@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2e4e7cf-1232-4356-86e2-e9d23b8bef62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankApplication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankingOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankingSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsufficientFundsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransactionLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+    <list default="true" id="d2e4e7cf-1232-4356-86e2-e9d23b8bef62" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusinessAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransactionLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TransactionLog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +76,30 @@
       <option name="presentableId" value="Default" />
       <updated>1731321216070</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1733427151628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733427151628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
